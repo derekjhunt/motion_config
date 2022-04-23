@@ -1,6 +1,8 @@
 # motion_config
 Example motion config files for multiple cameras on a Rasperry Pi.
 
+Reference documentation: https://motion-project.github.io/motion_config.html
+
 ## Install motion
 sudo apt install motion -y
 sudo systemctl enable motion
